@@ -1,6 +1,6 @@
 Here’s a README template specifically for a “10 Min. Agent” Python project. You can copy and adapt this for your repository. The template assumes your application is an agent that generates sample user data in under 10 minutes, using a conversational interface.
 
-# 10 Min. Agent
+# 10 Min Agent
 
 A Python-based conversational agent for rapidly generating and managing sample user data, designed to get developers realistic test data in under 10 minutes.
 
